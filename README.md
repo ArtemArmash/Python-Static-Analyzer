@@ -30,7 +30,7 @@ The script is designed to be run from the command line.
 
 ```bash
 # Clone the repository
-git clone [URL_ТВОЕГО_РЕПОЗИТОРИЯ]
+git clone https://github.com/ArtemArmash/Python-Static-Analyzer.git
 cd Python-Static-Analyzer
 
 # Run the analysis on a binary (e.g., /bin/ls)
