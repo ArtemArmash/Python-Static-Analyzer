@@ -39,4 +39,3 @@ python3 static_analyzer.py /bin/ls
 # Check the results
 cat report.json
 ```
-```
