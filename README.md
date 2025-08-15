@@ -1,4 +1,3 @@
-```markdown
 # Python Static Analyzer for ELF Binaries
 
 This project is a simple yet effective static analysis tool written in Python. It automates the initial reconnaissance phase of reverse engineering for ELF (Executable and Linkable Format) binaries on Linux. The script runs a series of standard command-line tools, parses their output, and aggregates the findings into a structured JSON report.
